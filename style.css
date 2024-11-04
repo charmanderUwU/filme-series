@@ -1,6 +1,15 @@
 body{
-    background: purple;
+    background: rgb(145, 4, 145);
     color: white;
     margin: 0px;
+    font-family: "Dancing Script", cursive;
     margin-bottom: 100px;
+}
+
+.chamada{
+    background: rgb(66, 42, 90);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
